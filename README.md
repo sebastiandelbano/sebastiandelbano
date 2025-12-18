@@ -48,6 +48,6 @@ To be released on GitHub.
 
 <br />
 <div align="center">
-<img src="DynamicTyping.jpg" width="100%" />
+<img src="DynamicTyping.jpg" width="50%" />
 </div>
 

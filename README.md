@@ -7,19 +7,19 @@
 ### 👨‍💻 Interests
 #### Maths
 Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis, Differential Geometry, Machine Learning.
-##### Computing
+#### Computing
 C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python.
 
 ---
 ### 📚 Lecture Notes
-Source code is private. Let me know of any feedback.
+Source code is private.
 
 - [MTH4600 Applied Probability and Statistics](https://mth4600.crystalmath.org)
 - [MTH6139 Time Series Analysis](https://mth6139.crystalmath.org)
 
 ---
 ### 🛠️ Open Source Utilities
-To be released on GitHub.
+To be released on GitHub soon.
 
 #### Quarto music extension.
 - Converts user input in the form of an abc notation code block into a rendered
@@ -36,12 +36,12 @@ To be released on GitHub.
   displayed or hidden in quarto document.
 - Current coverage: C++, Haskell, Rust, Lua, Pascal, PL/I, Algol, FORTRAN,
   COBOL, x86 Assembly. ARM Assembly, RISC-V Assembly, Lua, Go, Node.Js, and
-  Kotlin.
+  Kotlin, IBM 360/370 Assembly.
 - Also supports GNUPLOT code blocks for rendering plots (as SVG) and Manim code
   (rendered as animated GIF).
 - Extra features: caching of outputs, KATE syntax highlighting when not
-  natively supported, vertical guidelines for fixed format (e.g., FORTRAN and
-  COBOL).
+  natively supported, vertical guidelines for fixed format languages (e.g., FORTRAN and
+  COBOL, 390 IBM Assembly).
 - Possible use cases: educational notes, technical blogs, documentation.
 
 ---

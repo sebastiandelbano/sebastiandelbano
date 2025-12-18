@@ -20,30 +20,30 @@ C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python, paleocomputing (FORTRA
 To be released on GitHub soon.
 
 #### Quarto music extension.
-- Converts user input in the form of an abc notation code block into a rendered
+- Converts user input in the form of an abc notation code-block into a rendered
   musical score (SVG), and/or audio rendering (WEBM). abc code blocks can be
   displayed or hidden.
 - Extra features: caching of outputs, KATE syntax highlighting for abc
   notation, professional sound rendering using *Timbres of Heaven* soundfont.
 - Possible use cases: music lecture notes, music theory lessons, music sheets
   (with audio if needed), abc coding lecture notes.
-- Developed on Linux toolchain (abcm2ps, abcmidi, fluidsynth, ffmpeg), might be
+- Developed on Linux tool-chain (abcm2ps, abcmidi, fluidsynth, ffmpeg), might be
   possible to adapt to Windows or MacOS.
 
 #### Quarto language extension.
-- Takes user input in a code block executes is and renders results (assembling,
+- Takes user input in a code-block executes it, and renders results (assembling,
   compiling and linking as needed). Code can be displayed or hidden in quarto
   document.
 - Current coverage: C++, Haskell, Rust, Lua, Pascal, PL/I, Algol, FORTRAN,
   COBOL, x86 Assembly. ARM Assembly, RISC-V Assembly, Lua, Go, Node.Js, and
-  Kotlin, IBM 360/370 Assembly.
+  Kotlin, IBM 390 Assembly.
 - Also supports GNUPLOT code blocks for rendering plots (as SVG) and Manim code
   (rendered as animated GIF).
 - Extra features: caching of outputs, KATE syntax highlighting when not
   natively supported, vertical guidelines for fixed format languages (e.g.,
   FORTRAN and COBOL, 390 IBM Assembly).
 - Possible use cases: lecture notes, technical blogs, documentation.
-- Developed on Linux toolchain, might be possible to adapt to Windows or MacOS.
+- Developed on Linux tool-chain, might be possible to adapt to Windows or MacOS.
 
 ---
 

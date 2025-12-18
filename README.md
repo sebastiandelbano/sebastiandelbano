@@ -50,3 +50,35 @@ To be released on GitHub soon.
 <img src="DynamicTyping.jpg" width="50%" />
 </div>
 
+> [!NOTE]
+> In fact typing is connected to several areas:
+>
+> 1. **In Physics**, the 'type' of a quantity is its units; 10 metres cannot be
+>    added to 5 seconds.
+> 2. In C++ you can enforce this at compile-time:
+>    - Create a class `metres` that contains a single `double` and overload
+>      operators so only `metres` can be added to `metrees`.
+>      `metres` objects.
+>    - Create a class `seconds` so that adding `metres` to `seconds` causes a
+>      **compile-time error**.
+>    - Defining `metersPerSecond` allows to divide 5 `meters` by 2 `seconds` to
+>      yield `metersPerSecond` object, and `metresPerSecond * seconds` returns
+>      `meters`.
+> 3. In **Bourbaki style mathematics**, one avoids identifying everything, and their
+>    dog, with $\mathbb{R}^n$. A vector is a different type of object from a point
+>    in affine space or a covector. They cannot be added, but a vector plus a
+>    point yield a point, and a covector times a vector yields a number.
+> 4. In **group theory** one considers how groups act on other entities. In our case
+>    rescaling units correspond to the action of the multiplicative group $\mathbb{R}^+$.
+>    If we consider lengths and times, then the group $\mathbb{R}^+ \times \mathbb{R}^+$
+>    acts on our quantities by rescaling lengths and times.
+>
+>    The different units correspond to the different characters of this group
+>    action. For example $m/s^2$ corresponds to the character that sends
+>    $(a,b) \in \mathbb{R}^+ \times \mathbb{R}^+$ to $a/b^2$.
+
+   
+
+
+
+

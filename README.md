@@ -1,13 +1,15 @@
 <div align="center">
-<img src="status4.svg" width="100%" />
+<img src="status4.svg" width="100%"/>
 </div>
 
 
 ### 👨‍💻 Interests
 #### Maths
-Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis, Differential Geometry, Machine Learning.
+Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis,
+Differential Geometry, Machine Learning.
 #### Computing
-C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python, paleocomputing (FORTRAN, IBM 360/370, PL/I, ...).
+C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python, paleocomputing
+(FORTRAN, IBM 360/370, PL/I, ...).
 
 ---
 ### 📚 Lecture Notes
@@ -21,9 +23,8 @@ Source code is private.
 To be released on GitHub soon.
 
 #### Quarto music extension.
-- Converts user input in the form of an abc notation code block into a rendered
-  musical score (SVG), and/or audio rendering (WEBM). abc code blocks can be
-  displayed or hidden.
+- Renders an abc notation code block into as a musical score (SVG), and/or
+  audio rendering (WEBM). abc code-blocks can be displayed or hidden.
 - Extra features: caching of outputs, KATE syntax highlighting for abc
   notation, professional sound rendering using *Timbres of Heaven* soundfont.
 - Possible use cases: music lecture notes, music theory lessons, music sheets
@@ -45,9 +46,9 @@ To be released on GitHub soon.
 
 ---
 
-<br />
+<br/>
 <div align="center">
-<img src="DynamicTyping.jpg" width="50%" />
+<img src="DynamicTyping.jpg" width="50%"/>
 </div>
 
 > [!NOTE]
@@ -86,10 +87,10 @@ To be released on GitHub soon.
 >    ($t_T=1/60^2$), then one $m/s^2$ becomes
 >    $t_L/t_T^2=(1/1000)/(1/3600)^2=12960$ $km/h^2$.
 >
->    I presume this can get very complicated by considering more complicated
->    group actions (perhaps non-commutative) on infinite dimensional vector
->    spaces, $\mathcal{L}^2$ functions, distributions,..., $p$-adic Banach
->    pseudo-algebroids of type VII, god knows.
+>    If there were given "god-given" units for length and time (e.g. metres and
+>    seconds), then the elements of the group $\mathbb{R}^+\times\mathbb{R}^+$
+>    would correspond to rescaled units, e.g. $(1000, 3600)$ would mean
+>    kilometres and hours.
 
    
 

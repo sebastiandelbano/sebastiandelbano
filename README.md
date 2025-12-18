@@ -28,11 +28,13 @@ To be released on GitHub soon.
   notation, professional sound rendering using *Timbres of Heaven* soundfont.
 - Possible use cases: music lecture notes, music theory lessons, music sheets
   (with audio if needed), abc coding lecture notes.
+- Developed on Linux toolchain (abcm2ps, abcmidi, fluidsynth, ffmpeg), might be
+  possible to adapt to Windows or MacOS.
 
 #### Quarto language extension.
-- Takes user input in a code block executes is and renders results (
-  assembling, compilation and linking in the background as needed). Code can be
-  displayed or hidden in quarto document.
+- Takes user input in a code block executes is and renders results (assembling,
+  compiling and linking as needed). Code can be displayed or hidden in quarto
+  document.
 - Current coverage: C++, Haskell, Rust, Lua, Pascal, PL/I, Algol, FORTRAN,
   COBOL, x86 Assembly. ARM Assembly, RISC-V Assembly, Lua, Go, Node.Js, and
   Kotlin, IBM 360/370 Assembly.
@@ -42,10 +44,11 @@ To be released on GitHub soon.
   natively supported, vertical guidelines for fixed format languages (e.g.,
   FORTRAN and COBOL, 390 IBM Assembly).
 - Possible use cases: lecture notes, technical blogs, documentation.
+- Developed on Linux toolchain, might be possible to adapt to Windows or MacOS.
 
 ---
 
-<br />
+<br/>
 <div align="center">
 <img src="DynamicTyping.jpg" width="50%" />
 </div>
@@ -64,10 +67,10 @@ To be released on GitHub soon.
 >      5 `meters` by 2 `seconds` to yield `metersPerSecond` object, and
 >      `metresPerSecond * seconds` returns `meters`.
 >    - The NASA Mars Climate Orbiter was lost in 1999 because one piece of
->      software used imperial units (pounds-force) while another used metric
->      units (newtons). Should have strongly typed this.
+>      software used Newtons whereas another used old imperial units
+>      (pounds-force). Should have strongly typed this.
 >    - Note that there is no overhead at runtime as the compiler will create
->      identical code with or without typing.
+>      identical machine code with or without typing.
 > 3. In **Bourbaki style mathematics**, one avoids identifying everything, and
 >    their dog, with $\mathbb{R}^n$. A vector is a different type of object
 >    from a point in space, or a covector. They cannot be added, but a vector
@@ -86,10 +89,12 @@ To be released on GitHub soon.
 >    ($t_T=1/60^2$), then one $m/s^2$ becomes
 >    $t_L/t_T^2=(1/1000)/(1/3600)^2=12960$ $km/h^2$.
 >
->    I presume this can get very complicated by considering more complicated
->    group actions (perhaps non-commutative) on infinite dimensional vector
->    spaces, $\mathcal{L}^2$ functions, distributions,..., $p$-adic Banach
->    pseudo-algebroids of type VII, god knows.
+>    I presume this can get very complicated by considering general group
+>    actions (perhaps non-commutative) on spaces of functions on space valued
+>    in representations of the group, leading to infinite dimensional
+>    representations, Hilbert spaces, operator algebras, C*-algebras, von
+>    Neumann algebras, distributions,..., $p$-adic nuclear Banach
+>    pseudo-algebroids of Gonzalez type VII, god knows.
 
    
 

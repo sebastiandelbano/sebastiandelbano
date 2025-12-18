@@ -58,28 +58,38 @@ To be released on GitHub soon.
 > 2. In C++ you can enforce this at compile-time:
 >    - Create a class `metres` that contains a single `double` and overload
 >      operators so only `metres` can be added to `metres`.
->      `metres` objects.
 >    - Create a class `seconds` so that adding `metres` to `seconds` causes a
 >      **compile-time error**.
 >    - Defining `metersPerSecond` and its operations suitably, allows to divide
 >      5 `meters` by 2 `seconds` to yield `metersPerSecond` object, and
 >      `metresPerSecond * seconds` returns `meters`.
-> 3. In **Bourbaki style mathematics**, one avoids identifying everything, and their
->    dog, with $\mathbb{R}^n$. A vector is a different type of object from a point
->    in space, or a covector. They cannot be added, but a vector plus a
->    point yields a point; and a covector times a vector yields a number.
+>    - The NASA Mars Climate Orbiter was lost in 1999 because one piece of
+>      software used imperial units (pounds-force) while another used metric
+>      units (newtons). Should have strongly typed this.
+>    - Note that there is no overhead at runtime as the compiler will create
+>      identical code with or without typing.
+> 3. In **Bourbaki style mathematics**, one avoids identifying everything, and
+>    their dog, with $\mathbb{R}^n$. A vector is a different type of object
+>    from a point in space, or a covector. They cannot be added, but a vector
+>    plus a point yields a point; and a covector times a vector yields a
+>    number.
 > 4. In **group theory** one considers how groups act on other entities. In our case
 >    rescaling units correspond to the action of the multiplicative group $\mathbb{R}^+$.
->    If we consider lengths and times, then the group $\mathbb{R}^+ \times \mathbb{R}^+$
+>    If we consider lengths and times, then the group $\mathbb{R}^+\times\mathbb{R}^+$
 >    acts on our quantities by rescaling lengths and times.
 >
->    Different units correspond to the different characters of this group.
->    For example, $m/s^2$ corresponds to the character
+>    Different units correspond to the different characters of this group. For
+>    example, $m/s^2$ corresponds to the character
 >    $\chi\in\left(\mathbb{R}^+\times\mathbb{R}^+\right)^\vee$ defined by
->    $\chi(t_\ell, t_T)=t_\ell/t_T^2$. I presume this can get very complicated
->    by considering more complicated group actions (perhaps
->    non-commutative) on infinite dimensional vector spaces, $\mathcal{L}^2$
->    functions, distributions,..., $p$-adic Banach pseudo-algebroids of type VII, god knows.
+>    $\chi(t_L, t_T)=t_L/t_T^2$. This is fancy maths for the fact that if we
+>    change from metres to kilometres ($t_L=1/1000$), and from seconds to hours
+>    ($t_T=1/60^2$), then one $m/s^2$ becomes
+>    $t_L/t_T^2=(1/1000)/(1/3600)^2=12960$ $km/h^2$.
+>
+>    I presume this can get very complicated by considering more complicated
+>    group actions (perhaps non-commutative) on infinite dimensional vector
+>    spaces, $\mathcal{L}^2$ functions, distributions,..., $p$-adic Banach
+>    pseudo-algebroids of type VII, god knows.
 
    
 

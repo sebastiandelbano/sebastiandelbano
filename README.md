@@ -12,8 +12,8 @@ C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python, paleocomputing (FORTRA
 ---
 ### 📚 Lecture Notes
 
-- <a href="https://mth4600.crystalmath.org" target="_blank">MTH4600 Applied Probability and Statistics↗️</a>
-- <a href="https://mth6139.crystalmath.org" target="_blank">MTH6139 Time Series Analysis↗️</a>
+- <a href="https://mth4600.crystalmath.org" target="_blank">MTH4600 Applied Probability and Statistics</a>
+- <a href="https://mth6139.crystalmath.org" target="_blank">MTH6139 Time Series Analysis</a>
 
 ---
 ### 🛠️ Open Source Utilities

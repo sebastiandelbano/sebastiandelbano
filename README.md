@@ -1,15 +1,15 @@
 <div align="center">
-<img src="status4.svg" width="100%"/>
+<img src="status5.svg" width="100%"/>
 </div>
 
 
-### 👨‍💻 Interests
+### 👨‍💻 Inclinations
 #### Maths
-Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis,
-Differential Geometry, Machine Learning.
+Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis, Number Theory, Statistics,
+Differential Geometry, Machine Learning, ...
 #### Computing
 C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python, paleocomputing
-(FORTRAN, IBM 360/370, PL/I, ...).
+(FORTRAN, IBM 360/370, PL/I, ...), ...
 
 ---
 ### 📚 Lecture Notes
@@ -57,7 +57,7 @@ To be released on GitHub soon.
 > [!NOTE]
 > In fact typing is connected to several areas:
 >
-> 1. **In Physics**, the 'type' of a quantity is its units; 10 metres cannot be
+> 1. **In Physics**, the *type* of a quantity is its units; 10 metres cannot be
 >    added to 5 seconds.
 > 2. In C++ you can enforce this at compile-time:
 >    - Create a class `metres` that contains a single `double` and overload

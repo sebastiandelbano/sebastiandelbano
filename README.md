@@ -94,9 +94,8 @@ To be released on GitHub soon.
 >    called a character of the group $\mathbb{R}^+\times\mathbb{R}^+$, and the
 >    different possible units correspond to the different characters of this
 >    group.
+>
+>    Things get more fun when you allow rescaling of the whole space-time.
 
    
-
-
-
 

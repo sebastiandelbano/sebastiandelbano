@@ -64,19 +64,20 @@ To be released on GitHub soon.
 >      operators so only `metres` can be added to `metres`.
 >    - Create a class `seconds` so that adding `metres` to `seconds` causes a
 >      **compile-time error**👍.
->    - Defining `metersPerSecond` and its operations suitably, allows to divide
->      5 `meters` by 2 `seconds` to yield `metersPerSecond` object, and
->      `metresPerSecond * seconds` returns `meters`.
+>    - Defining `metresPerSecond` and its operations suitably, allows to divide
+>      5 `metres` by 2 `seconds` to yield `metresPerSecond` object, and
+>      `metresPerSecond * seconds` returns `metres`.
 >    - The NASA Mars Climate Orbiter was lost in 1999 because one piece of
 >      software used Newtons whereas another used old imperial units
 >      (pounds-force). Should have strongly typed this.
 >    - Note that there is no overhead at runtime as the compiler will create
 >      identical machine code with or without typing.
-> 3. In **Bourbaki style mathematics**, one avoids identifying everything, and
->    their dog, with $\mathbb{R}^n$. A vector is a different type of object
->    from a point in space, or a covector. They cannot be added, but a vector
->    plus a point yields a point; and a covector times a vector yields a
->    number (and a vector times a covector yields an endomorphism🤔).
+> 3. In **Bourbaki style mathematics**, (amongst other things) one avoids
+>    identifying everything, and their dog, with $\mathbb{R}^n$. A vector is a
+>    different type of object from a point in space, or a covector. They cannot
+>    be added, but a vector plus a point yields a point; and a covector times a
+>    vector yields a number (and a vector times a covector yields an
+>    endomorphism🤔).
 > 4. In **group theory** one considers how groups act on other entities. In our case
 >    rescaling units correspond to the action of the multiplicative group $\mathbb{R}^+$.
 >    If we consider lengths and times, then the group $\mathbb{R}^+\times\mathbb{R}^+$

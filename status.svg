@@ -28,102 +28,99 @@
         }
     </style>
     
-    <rect width="800" height="300" fill="#22272e" rx="15" />            <text x="0" y="0" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x95BB</text>
-            <text x="0" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x48DC</text>
-            <text x="0" y="40" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x8EC6</text>
-            <text x="0" y="280" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x91F8</text>
-            <text x="120" y="100" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xF9A0</text>
-            <text x="120" y="140" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xC03A</text>
-            <text x="240" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xB48E</text>
-            <text x="240" y="40" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x00BA</text>
-            <text x="240" y="80" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x2FD2</text>
-            <text x="240" y="120" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x189B</text>
-            <text x="240" y="280" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xB046</text>
-            <text x="360" y="80" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x1E6E</text>
-            <text x="360" y="120" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x989B</text>
-            <text x="360" y="160" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x614E</text>
-            <text x="360" y="220" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xAAA3</text>
-            <text x="360" y="280" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x9277</text>
-            <text x="480" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x38C9</text>
-            <text x="480" y="60" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xB9E2</text>
-            <text x="480" y="100" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x1AD9</text>
-            <text x="480" y="180" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x18E0</text>
-            <text x="480" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xDE31</text>
-            <text x="480" y="220" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x6225</text>
-            <text x="600" y="100" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x5962</text>
-            <text x="600" y="140" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x8D7D</text>
-            <text x="600" y="260" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x9031</text>
-            <text x="600" y="280" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xD024</text>
-            <text x="720" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xDC73</text>
-            <text x="720" y="60" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x9962</text>
-            <text x="720" y="140" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x450D</text>
-            <text x="720" y="160" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x6F5A</text>
-            <text x="720" y="180" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xE62B</text>
-            <text x="720" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xA20F</text>
-            <text x="720" y="220" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x8931</text>
-            <text x="314.65298545266796" y="130.02074577925433" font-family="monospace" font-size="12" fill="#7dD17d" font-weight="bold" style="animation: instability 3.60s infinite; animation-delay: -1.92s">65</text>
-            <text x="333.47366191937203" y="143.10469685663875" font-family="monospace" font-size="12" fill="#6eD16e" font-weight="bold" style="animation: instability 3.80s infinite; animation-delay: -4.19s">47</text>
-            <text x="348.98029055176227" y="156.3994499574147" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.36s infinite; animation-delay: -0.38s">91</text>
-            <text x="360.4387907963872" y="168.766463208046" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.37s infinite; animation-delay: -0.05s">AA</text>
-            <text x="367.3262477284746" y="179.20989952783773" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.74s infinite; animation-delay: -0.78s">F7</text>
-            <text x="369.36667562153133" y="186.95969307700594" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.30s infinite; animation-delay: -3.58s">13</text>
-            <text x="366.551729280819" y="191.53185715094804" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.44s infinite; animation-delay: -1.41s">58</text>
-            <text x="359.1445744480411" y="192.76100433082559" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.06s infinite; animation-delay: -4.09s">11</text>
-            <text x="347.66634646127517" y="190.80262512834187" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.86s infinite; animation-delay: -2.70s">A4</text>
-            <text x="332.865905197758" y="186.105447750512" font-family="monospace" font-size="12" fill="#67D167" font-weight="bold" style="animation: instability 3.97s infinite; animation-delay: -3.12s">59</text>
-            <text x="315.6748309627277" y="179.35692792204765" font-family="monospace" font-size="12" fill="#75D175" font-weight="bold" style="animation: instability 4.85s infinite; animation-delay: -2.59s">0C</text>
-            <text x="297.1507001614919" y="171.40734822586327" font-family="monospace" font-size="12" fill="#84D184" font-weight="bold" style="animation: instability 2.90s infinite; animation-delay: -0.73s">A6</text>
-            <text x="278.4125425197447" y="163.17992280276312" font-family="monospace" font-size="12" fill="#93D193" font-weight="bold" style="animation: instability 4.89s infinite; animation-delay: -3.66s">A2</text>
-            <text x="260.572943557286" y="155.57553405034193" font-family="monospace" font-size="12" fill="#9fD19f" font-weight="bold" style="animation: instability 4.44s infinite; animation-delay: -4.56s">A6</text>
-            <text x="244.6714722110707" y="149.38116397806647" font-family="monospace" font-size="12" fill="#a8D1a8" font-weight="bold" style="animation: instability 3.34s infinite; animation-delay: -2.67s">E0</text>
-            <text x="231.61396794504032" y="145.19068687387346" font-family="monospace" font-size="12" fill="#adD1ad" font-weight="bold" style="animation: instability 2.54s infinite; animation-delay: -0.44s">D0</text>
-            <text x="222.12172843572358" y="143.34549990309526" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 4.79s infinite; animation-delay: -4.43s">CD</text>
-            <text x="216.69384080474543" y="143.90059390382686" font-family="monospace" font-size="12" fill="#abD1ab" font-weight="bold" style="animation: instability 4.40s infinite; animation-delay: -4.46s">CC</text>
-            <text x="215.58486418894591" y="146.61927946390574" font-family="monospace" font-size="12" fill="#a3D1a3" font-weight="bold" style="animation: instability 4.28s infinite; animation-delay: -4.48s">4D</text>
-            <text x="218.79888607117647" y="150.99710117087832" font-family="monospace" font-size="12" fill="#98D198" font-weight="bold" style="animation: instability 4.94s infinite; animation-delay: -1.32s">B5</text>
-            <text x="226.0997376473547" y="156.31274019439573" font-family="monospace" font-size="12" fill="#8aD18a" font-weight="bold" style="animation: instability 4.59s infinite; animation-delay: -3.46s">BC</text>
-            <text x="237.03596602560268" y="161.70117120335786" font-family="monospace" font-size="12" fill="#7cD17c" font-weight="bold" style="animation: instability 2.41s infinite; animation-delay: -3.43s">64</text>
-            <text x="250.97811902917528" y="166.24223533481486" font-family="monospace" font-size="12" fill="#6dD16d" font-weight="bold" style="animation: instability 4.55s infinite; animation-delay: -2.80s">2A</text>
-            <text x="267.1650837890656" y="169.05630914158135" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.49s infinite; animation-delay: -0.77s">03</text>
-            <text x="284.755694462142" y="169.39802670841232" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.35s infinite; animation-delay: -4.94s">9F</text>
-            <text x="302.8816228913206" y="166.73911656872497" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.69s infinite; animation-delay: -0.04s">AB</text>
-            <text x="320.6976960029097" y="160.83234014217004" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.33s infinite; animation-delay: -3.04s">CD</text>
-            <text x="337.426223745295" y="151.75018342729132" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.88s infinite; animation-delay: -4.19s">08</text>
-            <text x="352.39262362176663" y="139.89421084885382" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.92s infinite; animation-delay: -0.55s">42</text>
-            <text x="365.05052285290674" y="125.97363781007158" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.60s infinite; animation-delay: -4.71s">D8</text>
-            <text x="374.99552218007864" y="110.95447909341199" font-family="monospace" font-size="12" fill="#68D168" font-weight="bold" style="animation: instability 2.06s infinite; animation-delay: -1.00s">F0</text>
-            <text x="381.96782407768393" y="95.98333163080869" font-family="monospace" font-size="12" fill="#76D176" font-weight="bold" style="animation: instability 4.41s infinite; animation-delay: -0.51s">EE</text>
-            <text x="385.8448713341464" y="82.29220815287503" font-family="monospace" font-size="12" fill="#85D185" font-weight="bold" style="animation: instability 2.36s infinite; animation-delay: -1.89s">25</text>
-            <text x="386.62592729002665" y="71.09263856694338" font-family="monospace" font-size="12" fill="#93D193" font-weight="bold" style="animation: instability 3.74s infinite; animation-delay: -3.71s">2D</text>
-            <text x="384.41109050483726" y="63.46833354068994" font-family="monospace" font-size="12" fill="#9fD19f" font-weight="bold" style="animation: instability 2.08s infinite; animation-delay: -3.28s">5C</text>
-            <text x="379.37753032783803" y="60.275958725882234" font-family="monospace" font-size="12" fill="#a8D1a8" font-weight="bold" style="animation: instability 3.84s infinite; animation-delay: -4.35s">70</text>
-            <text x="371.75573756282836" y="62.06297070323373" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 3.76s infinite; animation-delay: -0.23s">B6</text>
-            <text x="361.808314965293" y="69.01006540229936" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 3.37s infinite; animation-delay: -1.97s">74</text>
-            <text x="349.8133203804049" y="80.90370664953758" font-family="monospace" font-size="12" fill="#aaD1aa" font-weight="bold" style="animation: instability 3.29s infinite; animation-delay: -0.42s">11</text>
-            <text x="336.0534779548782" y="97.14161814199105" font-family="monospace" font-size="12" fill="#a3D1a3" font-weight="bold" style="animation: instability 3.82s infinite; animation-delay: -4.37s">3D</text>
-            <text x="320.8117638668325" y="116.77126333834003" font-family="monospace" font-size="12" fill="#97D197" font-weight="bold" style="animation: instability 3.69s infinite; animation-delay: -0.05s">5A</text>
-            <text x="304.373035993117" y="138.55845649524505" font-family="monospace" font-size="12" fill="#8aD18a" font-weight="bold" style="animation: instability 4.11s infinite; animation-delay: -3.27s">EA</text>
-            <text x="287.030597279167" y="161.0805991584122" font-family="monospace" font-size="12" fill="#7bD17b" font-weight="bold" style="animation: instability 3.71s infinite; animation-delay: -0.46s">39</text>
-            <text x="269.095939474593" y="182.8368548010672" font-family="monospace" font-size="12" fill="#6cD16c" font-weight="bold" style="animation: instability 3.69s infinite; animation-delay: -1.48s">53</text>
-            <text x="250.90947285329133" y="202.36605417478756" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.26s infinite; animation-delay: -1.83s">59</text>
-            <text x="232.84985420513237" y="218.36240139813668" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.16s infinite; animation-delay: -4.25s">88</text>
-            <text x="215.33960124496826" y="229.77919169840027" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.82s infinite; animation-delay: -1.78s">8D</text>
-            <text x="198.8450218476417" y="235.9117456905955" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.85s infinite; animation-delay: -1.35s">05</text>
-            <text x="183.8690604827833" y="236.45252641923486" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.87s infinite; animation-delay: -1.74s">7F</text>
-            <text x="170.93641802689157" y="231.51378057219455" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.54s infinite; animation-delay: -3.78s">36</text>
-            <text x="160.5711626618623" y="221.61582651179776" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.42s infinite; animation-delay: -1.43s">0C</text>
-            <text x="153.26793510237184" y="207.6420553911959" font-family="monospace" font-size="12" fill="#69D169" font-weight="bold" style="animation: instability 4.51s infinite; animation-delay: -3.61s">90</text>
-            <text x="149.45867333537387" y="190.7645596710709" font-family="monospace" font-size="12" fill="#77D177" font-weight="bold" style="animation: instability 3.98s infinite; animation-delay: -1.95s">CF</text>
-            <text x="149.47745710430948" y="172.3468064053004" font-family="monospace" font-size="12" fill="#86D186" font-weight="bold" style="animation: instability 2.58s infinite; animation-delay: -3.20s">CA</text>
-            <text x="153.5265293579871" y="153.83171193402754" font-family="monospace" font-size="12" fill="#94D194" font-weight="bold" style="animation: instability 2.81s infinite; animation-delay: -1.77s">AD</text>
-            <text x="161.64673855763044" y="136.6246812975296" font-family="monospace" font-size="12" fill="#a0D1a0" font-weight="bold" style="animation: instability 4.79s infinite; animation-delay: -2.93s">5B</text>
-            <text x="173.69553388437708" y="121.9815458362431" font-family="monospace" font-size="12" fill="#a9D1a9" font-weight="bold" style="animation: instability 2.87s infinite; animation-delay: -4.92s">9F</text>
-            <text x="189.33523382243334" y="110.91083615590951" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 2.93s infinite; animation-delay: -3.67s">F2</text>
-            <text x="208.03360369007078" y="104.09851155645455" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 4.49s infinite; animation-delay: -1.96s">FF</text>
-            <text x="229.0778714591001" y="101.86125009450748" font-family="monospace" font-size="12" fill="#aaD1aa" font-weight="bold" style="animation: instability 4.52s infinite; animation-delay: -3.93s">E4</text>
-            <text x="251.6022569972705" y="104.13186623935633" font-family="monospace" font-size="12" fill="#a2D1a2" font-weight="bold" style="animation: instability 2.10s infinite; animation-delay: -0.72s">27</text>
-            <text x="274.6279761368656" y="110.4775916337806" font-family="monospace" font-size="12" fill="#97D197" font-weight="bold" style="animation: instability 2.73s infinite; animation-delay: -0.90s">C8</text>
-            <text x="297.1136035879986" y="120.14908013643398" font-family="monospace" font-size="12" fill="#89D189" font-weight="bold" style="animation: instability 2.80s infinite; animation-delay: -3.02s">C7</text>
+    <rect width="800" height="300" fill="#22272e" rx="15" />            <text x="0" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x9F42</text>
+            <text x="0" y="80" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x211A</text>
+            <text x="0" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x0564</text>
+            <text x="0" y="280" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x7129</text>
+            <text x="120" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xE571</text>
+            <text x="120" y="40" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xF5C7</text>
+            <text x="120" y="60" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x0C61</text>
+            <text x="120" y="80" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xAFAB</text>
+            <text x="120" y="140" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xF880</text>
+            <text x="120" y="280" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x7132</text>
+            <text x="240" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x91F8</text>
+            <text x="240" y="100" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xA3FC</text>
+            <text x="240" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x5D48</text>
+            <text x="240" y="240" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xC94D</text>
+            <text x="360" y="40" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x54FE</text>
+            <text x="360" y="80" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xCECF</text>
+            <text x="360" y="100" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x4955</text>
+            <text x="360" y="120" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xB95E</text>
+            <text x="360" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xDA6C</text>
+            <text x="360" y="220" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x924C</text>
+            <text x="360" y="240" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x544C</text>
+            <text x="360" y="260" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x8ADE</text>
+            <text x="480" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xD1D5</text>
+            <text x="480" y="80" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x5FA7</text>
+            <text x="480" y="120" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xDB33</text>
+            <text x="600" y="40" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x8F29</text>
+            <text x="600" y="180" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x6A8F</text>
+            <text x="600" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x3DFC</text>
+            <text x="720" y="20" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0x7F2E</text>
+            <text x="720" y="200" font-family="monospace" font-size="10" fill="#373e47" opacity="0.3">0xF2D8</text>
+            <text x="314.65298545266796" y="130.02074577925433" font-family="monospace" font-size="12" fill="#7dD17d" font-weight="bold" style="animation: instability 2.40s infinite; animation-delay: -3.66s">D3</text>
+            <text x="333.47366191937203" y="143.10469685663875" font-family="monospace" font-size="12" fill="#6eD16e" font-weight="bold" style="animation: instability 4.54s infinite; animation-delay: -3.90s">02</text>
+            <text x="348.98029055176227" y="156.3994499574147" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.75s infinite; animation-delay: -4.66s">E7</text>
+            <text x="360.4387907963872" y="168.766463208046" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.64s infinite; animation-delay: -1.99s">C3</text>
+            <text x="367.3262477284746" y="179.20989952783773" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.15s infinite; animation-delay: -1.70s">8D</text>
+            <text x="369.36667562153133" y="186.95969307700594" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.79s infinite; animation-delay: -4.94s">CB</text>
+            <text x="366.551729280819" y="191.53185715094804" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.11s infinite; animation-delay: -0.89s">DC</text>
+            <text x="359.1445744480411" y="192.76100433082559" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.91s infinite; animation-delay: -0.70s">3B</text>
+            <text x="347.66634646127517" y="190.80262512834187" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.29s infinite; animation-delay: -3.44s">12</text>
+            <text x="332.865905197758" y="186.105447750512" font-family="monospace" font-size="12" fill="#67D167" font-weight="bold" style="animation: instability 4.73s infinite; animation-delay: -3.95s">15</text>
+            <text x="315.6748309627277" y="179.35692792204765" font-family="monospace" font-size="12" fill="#75D175" font-weight="bold" style="animation: instability 4.01s infinite; animation-delay: -3.94s">6F</text>
+            <text x="297.1507001614919" y="171.40734822586327" font-family="monospace" font-size="12" fill="#84D184" font-weight="bold" style="animation: instability 4.42s infinite; animation-delay: -4.74s">22</text>
+            <text x="278.4125425197447" y="163.17992280276312" font-family="monospace" font-size="12" fill="#93D193" font-weight="bold" style="animation: instability 3.49s infinite; animation-delay: -3.49s">B2</text>
+            <text x="260.572943557286" y="155.57553405034193" font-family="monospace" font-size="12" fill="#9fD19f" font-weight="bold" style="animation: instability 3.62s infinite; animation-delay: -4.45s">8B</text>
+            <text x="244.6714722110707" y="149.38116397806647" font-family="monospace" font-size="12" fill="#a8D1a8" font-weight="bold" style="animation: instability 4.19s infinite; animation-delay: -2.62s">A3</text>
+            <text x="231.61396794504032" y="145.19068687387346" font-family="monospace" font-size="12" fill="#adD1ad" font-weight="bold" style="animation: instability 3.78s infinite; animation-delay: -4.38s">50</text>
+            <text x="222.12172843572358" y="143.34549990309526" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 3.30s infinite; animation-delay: -1.38s">BB</text>
+            <text x="216.69384080474543" y="143.90059390382686" font-family="monospace" font-size="12" fill="#abD1ab" font-weight="bold" style="animation: instability 4.32s infinite; animation-delay: -1.84s">D6</text>
+            <text x="215.58486418894591" y="146.61927946390574" font-family="monospace" font-size="12" fill="#a3D1a3" font-weight="bold" style="animation: instability 3.68s infinite; animation-delay: -2.57s">D3</text>
+            <text x="218.79888607117647" y="150.99710117087832" font-family="monospace" font-size="12" fill="#98D198" font-weight="bold" style="animation: instability 2.11s infinite; animation-delay: -4.49s">81</text>
+            <text x="226.0997376473547" y="156.31274019439573" font-family="monospace" font-size="12" fill="#8aD18a" font-weight="bold" style="animation: instability 4.50s infinite; animation-delay: -0.89s">AF</text>
+            <text x="237.03596602560268" y="161.70117120335786" font-family="monospace" font-size="12" fill="#7cD17c" font-weight="bold" style="animation: instability 2.79s infinite; animation-delay: -4.79s">25</text>
+            <text x="250.97811902917528" y="166.24223533481486" font-family="monospace" font-size="12" fill="#6dD16d" font-weight="bold" style="animation: instability 2.43s infinite; animation-delay: -2.95s">90</text>
+            <text x="267.1650837890656" y="169.05630914158135" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.67s infinite; animation-delay: -4.22s">0C</text>
+            <text x="284.755694462142" y="169.39802670841232" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.52s infinite; animation-delay: -0.98s">24</text>
+            <text x="302.8816228913206" y="166.73911656872497" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.40s infinite; animation-delay: -0.34s">18</text>
+            <text x="320.6976960029097" y="160.83234014217004" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.83s infinite; animation-delay: -4.17s">CC</text>
+            <text x="337.426223745295" y="151.75018342729132" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.98s infinite; animation-delay: -3.94s">6E</text>
+            <text x="352.39262362176663" y="139.89421084885382" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.97s infinite; animation-delay: -3.02s">0F</text>
+            <text x="365.05052285290674" y="125.97363781007158" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.69s infinite; animation-delay: -3.23s">0E</text>
+            <text x="374.99552218007864" y="110.95447909341199" font-family="monospace" font-size="12" fill="#68D168" font-weight="bold" style="animation: instability 3.23s infinite; animation-delay: -0.09s">26</text>
+            <text x="381.96782407768393" y="95.98333163080869" font-family="monospace" font-size="12" fill="#76D176" font-weight="bold" style="animation: instability 3.58s infinite; animation-delay: -3.42s">7F</text>
+            <text x="385.8448713341464" y="82.29220815287503" font-family="monospace" font-size="12" fill="#85D185" font-weight="bold" style="animation: instability 2.67s infinite; animation-delay: -0.31s">9C</text>
+            <text x="386.62592729002665" y="71.09263856694338" font-family="monospace" font-size="12" fill="#93D193" font-weight="bold" style="animation: instability 2.06s infinite; animation-delay: -4.37s">85</text>
+            <text x="384.41109050483726" y="63.46833354068994" font-family="monospace" font-size="12" fill="#9fD19f" font-weight="bold" style="animation: instability 3.47s infinite; animation-delay: -2.68s">01</text>
+            <text x="379.37753032783803" y="60.275958725882234" font-family="monospace" font-size="12" fill="#a8D1a8" font-weight="bold" style="animation: instability 3.64s infinite; animation-delay: -0.02s">59</text>
+            <text x="371.75573756282836" y="62.06297070323373" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 4.45s infinite; animation-delay: -0.29s">80</text>
+            <text x="361.808314965293" y="69.01006540229936" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 3.13s infinite; animation-delay: -4.96s">02</text>
+            <text x="349.8133203804049" y="80.90370664953758" font-family="monospace" font-size="12" fill="#aaD1aa" font-weight="bold" style="animation: instability 2.45s infinite; animation-delay: -0.67s">7A</text>
+            <text x="336.0534779548782" y="97.14161814199105" font-family="monospace" font-size="12" fill="#a3D1a3" font-weight="bold" style="animation: instability 4.45s infinite; animation-delay: -2.70s">D0</text>
+            <text x="320.8117638668325" y="116.77126333834003" font-family="monospace" font-size="12" fill="#97D197" font-weight="bold" style="animation: instability 4.68s infinite; animation-delay: -4.39s">27</text>
+            <text x="304.373035993117" y="138.55845649524505" font-family="monospace" font-size="12" fill="#8aD18a" font-weight="bold" style="animation: instability 4.75s infinite; animation-delay: -0.55s">4E</text>
+            <text x="287.030597279167" y="161.0805991584122" font-family="monospace" font-size="12" fill="#7bD17b" font-weight="bold" style="animation: instability 2.31s infinite; animation-delay: -3.44s">1E</text>
+            <text x="269.095939474593" y="182.8368548010672" font-family="monospace" font-size="12" fill="#6cD16c" font-weight="bold" style="animation: instability 2.89s infinite; animation-delay: -3.03s">BD</text>
+            <text x="250.90947285329133" y="202.36605417478756" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.74s infinite; animation-delay: -0.20s">BD</text>
+            <text x="232.84985420513237" y="218.36240139813668" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.71s infinite; animation-delay: -3.92s">06</text>
+            <text x="215.33960124496826" y="229.77919169840027" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.16s infinite; animation-delay: -2.18s">FB</text>
+            <text x="198.8450218476417" y="235.9117456905955" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 2.69s infinite; animation-delay: -0.43s">1B</text>
+            <text x="183.8690604827833" y="236.45252641923486" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.72s infinite; animation-delay: -2.88s">2D</text>
+            <text x="170.93641802689157" y="231.51378057219455" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 4.17s infinite; animation-delay: -2.09s">70</text>
+            <text x="160.5711626618623" y="221.61582651179776" font-family="monospace" font-size="12" fill="#64D164" font-weight="bold" style="animation: instability 3.37s infinite; animation-delay: -0.78s">E9</text>
+            <text x="153.26793510237184" y="207.6420553911959" font-family="monospace" font-size="12" fill="#69D169" font-weight="bold" style="animation: instability 2.76s infinite; animation-delay: -0.68s">DF</text>
+            <text x="149.45867333537387" y="190.7645596710709" font-family="monospace" font-size="12" fill="#77D177" font-weight="bold" style="animation: instability 3.41s infinite; animation-delay: -0.32s">69</text>
+            <text x="149.47745710430948" y="172.3468064053004" font-family="monospace" font-size="12" fill="#86D186" font-weight="bold" style="animation: instability 3.38s infinite; animation-delay: -1.45s">9D</text>
+            <text x="153.5265293579871" y="153.83171193402754" font-family="monospace" font-size="12" fill="#94D194" font-weight="bold" style="animation: instability 3.35s infinite; animation-delay: -1.06s">DF</text>
+            <text x="161.64673855763044" y="136.6246812975296" font-family="monospace" font-size="12" fill="#a0D1a0" font-weight="bold" style="animation: instability 2.75s infinite; animation-delay: -0.52s">47</text>
+            <text x="173.69553388437708" y="121.9815458362431" font-family="monospace" font-size="12" fill="#a9D1a9" font-weight="bold" style="animation: instability 2.20s infinite; animation-delay: -4.94s">A5</text>
+            <text x="189.33523382243334" y="110.91083615590951" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 4.65s infinite; animation-delay: -2.76s">BD</text>
+            <text x="208.03360369007078" y="104.09851155645455" font-family="monospace" font-size="12" fill="#aeD1ae" font-weight="bold" style="animation: instability 4.30s infinite; animation-delay: -2.52s">3D</text>
+            <text x="229.0778714591001" y="101.86125009450748" font-family="monospace" font-size="12" fill="#aaD1aa" font-weight="bold" style="animation: instability 2.71s infinite; animation-delay: -4.87s">C2</text>
+            <text x="251.6022569972705" y="104.13186623935633" font-family="monospace" font-size="12" fill="#a2D1a2" font-weight="bold" style="animation: instability 4.87s infinite; animation-delay: -0.97s">57</text>
+            <text x="274.6279761368656" y="110.4775916337806" font-family="monospace" font-size="12" fill="#97D197" font-weight="bold" style="animation: instability 2.62s infinite; animation-delay: -4.49s">9D</text>
+            <text x="297.1136035879986" y="120.14908013643398" font-family="monospace" font-size="12" fill="#89D189" font-weight="bold" style="animation: instability 3.04s infinite; animation-delay: -2.77s">0A</text>
 
     <rect x="20" y="250" width="550" height="30" fill="#0d1117" stroke="#30363d" rx="5" />
     <text x="35" y="270" font-family="monospace" font-size="12" fill="#58a6ff">
@@ -403,7 +400,7 @@
             <text x="0" y="3930" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve"></text>
             <text x="0" y="3945" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">③ 𝐏𝐨𝐥𝐲𝐡𝐞𝐝𝐫𝐚</text>
             <text x="0" y="3960" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">Given 2 tetrahedra of same volume,</text>
-            <text x="0" y="3975" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">can one be cut & reassembled</text>
+            <text x="0" y="3975" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">can one be cut and reassembled</text>
             <text x="0" y="3990" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">into the other?</text>
             <text x="0" y="4005" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">(Dehn Invariant)</text>
             <text x="0" y="4020" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">Status: 𝐍𝐨 (Dehn 1900) ✅</text>
@@ -928,7 +925,7 @@
             <text x="0" y="11805" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve"></text>
             <text x="0" y="11820" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">③ 𝐏𝐨𝐥𝐲𝐡𝐞𝐝𝐫𝐚</text>
             <text x="0" y="11835" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">Given 2 tetrahedra of same volume,</text>
-            <text x="0" y="11850" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">can one be cut & reassembled</text>
+            <text x="0" y="11850" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">can one be cut and reassembled</text>
             <text x="0" y="11865" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">into the other?</text>
             <text x="0" y="11880" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">(Dehn Invariant)</text>
             <text x="0" y="11895" font-family="monospace" font-size="10" fill="#d29922" xml:space="preserve">Status: 𝐍𝐨 (Dehn 1900) ✅</text>

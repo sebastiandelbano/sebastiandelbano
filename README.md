@@ -5,8 +5,9 @@
 
 ### 👨‍💻 Inclinations
 #### Maths
-Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis, Number Theory, Statistics,
-Differential Geometry, Machine Learning, History of Maths, ...
+Algebraic Geometry, Algebraic Topology, Probability, Numerical Analysis, Number
+Theory, Time Series, Statistics, Differential Geometry, Machine Learning,
+History of Maths, ...
 #### Computing
 C/C++, Assembly Code, HTML/CSS/JS/SVG, Quarto, R, Python, paleo-computing
 (FORTRAN, IBM 360/370, PL/I, ...), ...

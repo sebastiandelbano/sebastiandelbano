@@ -52,7 +52,7 @@ To be released on GitHub soon.
 
 <br/>
 <div align="center">
-<img src="dynamicTyping.jpg" width="50%"/>
+<img src="dynamicTyping.webp" width="50%"/>
 </div>
 
 > [!NOTE]
